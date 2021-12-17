@@ -1,2 +1,2 @@
-# WebPlayer
-An Efficient web Video player
+# Tuner
+A Audio sharing and playing App
